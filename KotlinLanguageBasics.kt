@@ -1,6 +1,6 @@
 fun main(args: Array<String>)
 {
-	val sample1: Byte = 0x3A
+    val sample1: Byte = 0x3A
     var sample2: Byte = 58
     var heartRate: Int = 85
     var deposits: Double = 135002796.0
